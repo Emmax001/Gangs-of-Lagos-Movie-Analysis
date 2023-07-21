@@ -11,7 +11,7 @@ import tweepy
 from collections import Counter
 import pandas as pd
 from textblob import TextBlob
-# Twitter API credentials (replace with your own)
+# Twitter API credentials
 consumer_key = '8abqUFDQ2m8xL0PYtqNGFQhY0'
 consumer_secret = 'XAX09CdbonFFaDKMMSl05KhamCzCTL57QiR6uxQ9MFnPAsekYF'
 access_token = '1267770451553587210-8jB27oCgWnSU4FWA442YMCFhuv2LYw'

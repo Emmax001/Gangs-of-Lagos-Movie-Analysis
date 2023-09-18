@@ -12,10 +12,10 @@ from collections import Counter
 import pandas as pd
 from textblob import TextBlob
 # Twitter API credentials
-consumer_key = '8abqUFDQ2m8xL0PYtqNGFQhY0'
-consumer_secret = 'XAX09CdbonFFaDKMMSl05KhamCzCTL57QiR6uxQ9MFnPAsekYF'
-access_token = '1267770451553587210-8jB27oCgWnSU4FWA442YMCFhuv2LYw'
-access_token_secret = 'WkaLge1IgZbOtcQSnjEMV6G6srSq4DBsIboJ7EDQvFneC'
+consumer_key = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+consumer_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+access_token = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+access_token_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 # Authenticate to Twitter
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
